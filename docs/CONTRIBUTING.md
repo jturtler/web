@@ -35,7 +35,7 @@ yarn test
 
 We use Eslint and prettier to enforce lint rules on the repo. This should run automatically with every commit. However you can still manually run the lint command `yarn lint --fix`
 
-you can now create a pr, make sure to link to the issue getting resolved, add a relevant description the issue and list out the specific attention points.
+You can now create a pr, make sure to link to the issue getting resolved, add a relevant description of the issue and list out the specific attention points.
 
 ### 1.3 Developing a new feature
 
